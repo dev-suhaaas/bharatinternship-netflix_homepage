@@ -1,1 +1,1 @@
-# bharatinternship-netflix_homepage
+# Bharath-Internship-Netflix-Homepage-Task
